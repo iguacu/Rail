@@ -1,0 +1,1326 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-2--1333547008
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (45): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (45): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (35): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (35): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (32): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (32): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (33): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (33): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (45): Can't find include file CharaOutline.cg
+  api=5 type=0 insize=339 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (34): Can't find include file CharaSkin.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (34): Can't find include file CharaSkin.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_ON DIRLIGHTMAP_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 5 at (37): Can't find include file CharaMain.cg
+  api=5 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (37): Can't find include file CharaMain.cg
+  api=9 type=0 insize=393 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (49): Can't find include file CharaOutline.cg
+  api=9 type=0 insize=339 outsize=0 kw= ok=0

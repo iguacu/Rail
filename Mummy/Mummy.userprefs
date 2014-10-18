@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MummyController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Joystick.cs" Line="39" Column="52" />
+      <File FileName="Assets/Scripts/MummyController.cs" Line="32" Column="3" />
+      <File FileName="Assets/Scripts/GyroButton.cs" Line="84" Column="3" />
+      <File FileName="Assets/Scripts/GyroTest.cs" Line="52" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
